@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "443871000571",
+    "firebase_url": "https://pm-group.firebaseio.com",
+    "project_id": "pm-group",
+    "storage_bucket": "pm-group.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443871000571:android:858b1358a2bed87ffd3d5e",
+        "android_client_info": {
+          "package_name": "com.paras.pm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443871000571-9is90r1jsoda62vqav7dou1ttdove4ot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD34wmZUj_e4eh6kFNdtL5fynIZo7fY5AQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443871000571-9is90r1jsoda62vqav7dou1ttdove4ot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443871000571:android:d6babf567bb2ba9ffd3d5e",
+        "android_client_info": {
+          "package_name": "com.paras.pmg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443871000571-ucsqsi1q8iei9g2h6ld4bufdmbtqf2m8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.paras.pmg",
+            "certificate_hash": "61ed377e85d386a8dfee6b864bd85b0bfaa5af81"
+          }
+        },
+        {
+          "client_id": "443871000571-9is90r1jsoda62vqav7dou1ttdove4ot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD34wmZUj_e4eh6kFNdtL5fynIZo7fY5AQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443871000571-9is90r1jsoda62vqav7dou1ttdove4ot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443871000571:android:6c1e820ef71e3358fd3d5e",
+        "android_client_info": {
+          "package_name": "jawa.ekart.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443871000571-fsvul3ilslebrdcbqjujj07uh3r961h6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jawa.ekart.shop",
+            "certificate_hash": "fef3c45891cdac7c05d49ca7ab036fa03c2ffce2"
+          }
+        },
+        {
+          "client_id": "443871000571-9is90r1jsoda62vqav7dou1ttdove4ot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD34wmZUj_e4eh6kFNdtL5fynIZo7fY5AQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443871000571-9is90r1jsoda62vqav7dou1ttdove4ot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
